@@ -1,0 +1,6 @@
+echo ".venv/" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "data/" >> .gitignore
+echo "*.mp3" >> .gitignore
+echo "*.mp4" >> .gitignore
+echo ".ruff_cache/" >> .gitignore
